@@ -57,6 +57,12 @@ Follow these steps to get the SIMplex frontend up and running on your local mach
 [![Axios](https://img.shields.io/badge/Axios-009688?style=for-the-badge&logo=axios&logoColor=white)](#)
 
 
+### Demo:
+![Screenshot 2024-07-08 at 9 53 04 PM](https://github.com/i-haq786/SIMplex/assets/80692159/ddb8fb48-42a1-4c1d-a0b3-79a6cb897d14)
+
+https://github.com/i-haq786/SIMplex/assets/80692159/16b2eafa-3d76-4f48-a9f0-280a3971452c
+
+![Screenshot 2024-07-08 at 9 57 02 PM](https://github.com/i-haq786/SIMplex/assets/80692159/39bc1224-df5c-4f26-8804-0237bf733800)
 
 
 
